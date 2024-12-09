@@ -1,0 +1,3 @@
+# Ignore database files
+app.db
+/Social_media_site/app.db
